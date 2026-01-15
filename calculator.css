@@ -42,14 +42,14 @@ button:hover {
     background: #d0d0d0;
 }
 .equals {
-    background: #4caf50;
+    background: #ff00ee;
     color: #fff;
 }
 .equals:hover {
-    background: #43a047;
+    background: #8949ff;
 }
 .clear {
-    background: #f44336;
+    background: #f27069;
     color: #fff;
 }
 .clear:hover {
